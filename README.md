@@ -62,9 +62,8 @@ pip install -r requirements.txt
    tensorboard --logdir runs/
    ```
 
-## Contributing
-
-Contributions are welcome! Please open issues for bug reports or feature requests, and submit pull requests for improvements.
+## Participants
+Ines Lalou, Sarah Garcia, Candice Bouquin and Lily Daganaud
 
 ## License
 
